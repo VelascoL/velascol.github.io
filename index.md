@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-Hello! I'm trying to figure this out right now, in the mean time this site will hold random bits of information, hopefully some of it will be relevant.
+Hello! I'm trying to figure this out right now--in the mean time this site will hold random bits of information, hopefully some of it will be relevant.
 
 
-[Link to another page](./another-page.html).
+[CV](./CV_3_25_2023.pdf). [Preprints & Publications](./papers.html)
 
 
