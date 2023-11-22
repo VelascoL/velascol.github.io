@@ -4,4 +4,4 @@ layout: default
 
 ## Notes
 
-Probability I Prelim Problems (https://velascol.github.io/Prob_1_prelim.pdf)
+<embed src = "https://velascol.github.io/Prob_1_prelim.pdf" type ="applications/pdf"/>
