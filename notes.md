@@ -1,1 +1,6 @@
-notes will go here
+---
+layout: default
+---
+
+### Notes
+
