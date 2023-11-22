@@ -4,4 +4,6 @@ layout: default
 
 ## Notes
 
-you can [get the PDF](velascol.github.io/Prob_1_Prelim.pdf) directly. 
+[Probability I Prelim Problems](velascol.github.io/Prob_1_Prelim.pdf)
+
+[Probability II Prelim Problems](velascol.github.io/Prob_2_Prelim.pdf)
